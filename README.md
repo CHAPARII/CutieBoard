@@ -16,6 +16,16 @@ This is my 65% keyboard which I've made. This took lot of time and effort but ev
 <img width="690" height="435" alt="Screenshot 2026-03-17 211049" src="https://github.com/user-attachments/assets/32ed39db-6ad4-4d60-83c7-41583786893c" />
 <img width="888" height="446" alt="Screenshot 2026-03-17 211337" src="https://github.com/user-attachments/assets/fcb0673a-096e-47d3-8317-0b1c061aaa49" />
 
+Assemble file was exceeding the git hub limit so I uploaded it in drive.. here's the link:
+
+Assembly:
+
+https://drive.google.com/file/d/1fHo7_pmMh8NqYnIPW2rtfyQu6sJ2r-iL/view?usp=sharing  
+
+Source file:
+
+https://drive.google.com/file/d/1JFaDPieXRco_5hZfy6cJICXCKCe2Fo2s/view?usp=sharing
+
 ## Bill of Materials (BOM)
 
 | Item | Product | Price (₹) | Link |
