@@ -35,8 +35,9 @@ https://drive.google.com/file/d/1JFaDPieXRco_5hZfy6cJICXCKCe2Fo2s/view?usp=shari
 | Keycaps | PBT Keycap Set (MX Compatible) | ₹2108 | https://amzn.in/d/030hoeA0 |
 | Diodes | 1N4148 Diode Pack | ₹295 | https://amzn.in/d/060HajRJ |
 | Battery | 3.7V LiPo Battery | ₹439 | https://amzn.in/d/0hRIfuOJ |
+| Stabilizers | Cherry Screw-in Stabilizers | ₹999 | https://www.keebsmod.com/products/cherry-clip-in-stabilizers |
 | PCB | Custom PCB (JLCPCB) | ₹2742 | — |
 
 ## Total Cost
 
-**₹9150** ($99.02 USD)
+**₹9,501** ($102.80 USD)
