@@ -9,6 +9,16 @@ This is my 65% keyboard which I've made. This took lot of time and effort but ev
  
  I made this project because once when I visited my friend's house I saw his 60% keyboard and it loocked really nice and after I got the motivation to make my own and i made 5%bigger mean 65% kerboard for myself T_T.
 
+ Assemble and source file was exceeding the git hub limit so I uploaded it in drive.. here's the link:
+
+Assembly:
+
+https://drive.google.com/file/d/1fHo7_pmMh8NqYnIPW2rtfyQu6sJ2r-iL/view?usp=sharing  
+
+Source file:
+
+https://drive.google.com/file/d/1JFaDPieXRco_5hZfy6cJICXCKCe2Fo2s/view?usp=sharing
+
 
 <img width="1106" height="471" alt="Screenshot 2026-03-15 225759" src="https://github.com/user-attachments/assets/2c778fc8-8bef-487b-b878-d8df8f7fddd9" />
 <img width="713" height="481" alt="Screenshot 2026-03-17 211028" src="https://github.com/user-attachments/assets/e2cc4c5e-1589-4ef7-947c-2195790e8172" />
@@ -16,7 +26,7 @@ This is my 65% keyboard which I've made. This took lot of time and effort but ev
 <img width="690" height="435" alt="Screenshot 2026-03-17 211049" src="https://github.com/user-attachments/assets/32ed39db-6ad4-4d60-83c7-41583786893c" />
 <img width="888" height="446" alt="Screenshot 2026-03-17 211337" src="https://github.com/user-attachments/assets/fcb0673a-096e-47d3-8317-0b1c061aaa49" />
 
-Assemble file was exceeding the git hub limit so I uploaded it in drive.. here's the link:
+Assemble and source file was exceeding the git hub limit so I uploaded it in drive.. here's the link:
 
 Assembly:
 
