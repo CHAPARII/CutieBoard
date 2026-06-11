@@ -34,6 +34,8 @@ https://drive.google.com/file/d/1TsiWUpYD7Me1Dc-eUxpzGdPIGhlKXmdZ/view?usp=shari
 <img width="1589" height="350" alt="Screenshot9877" src="https://github.com/user-attachments/assets/a69cc058-a203-4e8d-8071-c2187b1e433a" />
 <img width="1919" height="1031" alt="Screenshot9879" src="https://github.com/user-attachments/assets/1f782040-49e1-4eeb-9301-5658aa8b3c05" />
 <img width="1726" height="670" alt="screenshot9880" src="https://github.com/user-attachments/assets/c3dd7f5d-1ef6-4377-94fe-e95a5b2153ab" />
+<img width="1061" height="722" alt="Screenshot 2026-06-11 201743" src="https://github.com/user-attachments/assets/6eef2fe7-e915-4d78-9222-921199b9f1ea" />
+
 
 
 
