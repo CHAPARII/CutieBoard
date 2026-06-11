@@ -26,6 +26,8 @@ https://drive.google.com/file/d/1TsiWUpYD7Me1Dc-eUxpzGdPIGhlKXmdZ/view?usp=shari
 <img width="690" height="435" alt="Screenshot4" src="https://github.com/user-attachments/assets/c369c706-9a2f-4d71-855a-eeb993cea28c" />
 <img width="770" height="518" alt="Screenshot3" src="https://github.com/user-attachments/assets/f6cfff1a-b86e-4b4f-8134-047283f4073b" />
 <img width="888" height="446" alt="Screenshot5" src="https://github.com/user-attachments/assets/d2970c30-d3d5-4be9-9487-8a84663e7be8" />
+<img width="1061" height="722" alt="Screenshot 2026-06-11 201743" src="https://github.com/user-attachments/assets/6eef2fe7-e915-4d78-9222-921199b9f1ea" />
+
 
 # Cart SS
 
@@ -34,7 +36,6 @@ https://drive.google.com/file/d/1TsiWUpYD7Me1Dc-eUxpzGdPIGhlKXmdZ/view?usp=shari
 <img width="1589" height="350" alt="Screenshot9877" src="https://github.com/user-attachments/assets/a69cc058-a203-4e8d-8071-c2187b1e433a" />
 <img width="1919" height="1031" alt="Screenshot9879" src="https://github.com/user-attachments/assets/1f782040-49e1-4eeb-9301-5658aa8b3c05" />
 <img width="1726" height="670" alt="screenshot9880" src="https://github.com/user-attachments/assets/c3dd7f5d-1ef6-4377-94fe-e95a5b2153ab" />
-<img width="1061" height="722" alt="Screenshot 2026-06-11 201743" src="https://github.com/user-attachments/assets/6eef2fe7-e915-4d78-9222-921199b9f1ea" />
 
 
 
